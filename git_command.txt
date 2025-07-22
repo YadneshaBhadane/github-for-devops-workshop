@@ -1,0 +1,8 @@
+ls //list of files
+rm filename.extension //remove file permanatly restore using git only
+
+git init //to initialise an empty git vcs repo (.git)
+git status
+git add filename.extension
+git commit -m "added testing files"
+git restore filename 
